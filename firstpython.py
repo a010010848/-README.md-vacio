@@ -1,0 +1,4 @@
+testnewfile
+
+this is awesome
+
